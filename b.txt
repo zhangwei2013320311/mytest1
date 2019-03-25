@@ -1,11 +1,10 @@
 锘縜fjfd
-git bush
 24324
 fvfdvd
 cc
 ds
 
-https鏂瑰紡鎻愪氦浠ｇ爜
+https方式提交代码
 
 
 
@@ -16,6 +15,6 @@ https鏂瑰紡鎻愪氦浠ｇ爜
 
 
 
-鎷夊彇
+拉取
 
-鍐嶆鎷夊彇
+再次拉取
