@@ -4,10 +4,13 @@ fvfdvd
 cc
 ds
 
-https鏂瑰紡鎻愪氦浠ｇ爜
+https方式提交代码
 
 git bush
 
 
-鎷夊彇
+拉取
+
+
+再次拉取
 
