@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.xuecheng.test.freemarker.FreemarkerTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.622 s <<< FAILURE! - in com.xuecheng.test.freemarker.FreemarkerTest
-testGenerateHtml(com.xuecheng.test.freemarker.FreemarkerTest)  Time elapsed: 0.594 s  <<< ERROR!
-java.io.FileNotFoundException: E:\studysoft\studyCode\xcEdu\xcEduService01\test-freemarker\target\test-classes\templates does not exist.
-	at com.xuecheng.test.freemarker.FreemarkerTest.testGenerateHtml(FreemarkerTest.java:34)
-
